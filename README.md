@@ -2,6 +2,9 @@
 
 ## **Introduction**
 
+![Dashboard](https://user-images.githubusercontent.com/55409076/257604128-9a52e68a-73b4-4cec-98d5-935211ce6348.gif)
+
+
 This Power BI Industrial Meter Reading Dashboard Report is an internship project focused on analyzing power consumption data in an industrial company. The project aims to provide insights into different types of meter readings, energy consumption patterns, and identifying high and low power-consuming retailers within the company.
 
 ## **Dashboard Sections**
